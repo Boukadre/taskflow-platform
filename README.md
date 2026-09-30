@@ -16,5 +16,4 @@ Home-lab multi-VM opéré de bout en bout : infrastructure réseau, conteneurisa
 - **ops/** — Scripts d'automatisation et outillage Python
 
 ## Status
-
-Phase 1 — Fondations système en cours.
+Phase 1 terminée. Phase 2 (automatisation & Git) en cours.
